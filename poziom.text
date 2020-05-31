@@ -1,0 +1,9 @@
+#Numer poziomu, amunicja, przeciwnicy, trafiles, nie trafiles
+parametryPoziomu1=0 15 10 2 -1
+parametryPoziomu2=1 16 12 3 -2
+parametryPoziomu3=2 17 14 4 -3
+parametryPoziomu4=3 18 16 5 -4
+czasGry=60
+liczbaNajlepszychWynikow=5
+#Na pierwszym stopniu trudności, w milisekundach
+czasWidocznosciObiektu=2000

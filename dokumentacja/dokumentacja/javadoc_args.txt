@@ -1,0 +1,17 @@
+--source-path
+"C:/Users/Ch¹œno/IdeaProjects/Rzesny__Atlasner/src"
+--module-path
+"C:/Users/Ch¹œno/Documents/javafx-sdk-11.0.2/lib/javafx.base.jar;C:/Users/Ch¹œno/Documents/javafx-sdk-11.0.2/lib/javafx-swt.jar;C:/Users/Ch¹œno/Documents/javafx-sdk-11.0.2/lib/javafx.controls.jar;C:/Users/Ch¹œno/Documents/javafx-sdk-11.0.2/lib/javafx.fxml.jar;C:/Users/Ch¹œno/Documents/javafx-sdk-11.0.2/lib/javafx.graphics.jar;C:/Users/Ch¹œno/Documents/javafx-sdk-11.0.2/lib/javafx.media.jar;C:/Users/Ch¹œno/Documents/javafx-sdk-11.0.2/lib/javafx.swing.jar;C:/Users/Ch¹œno/Documents/javafx-sdk-11.0.2/lib/javafx.web.jar"
+"C:/Users/Ch¹œno/IdeaProjects/Rzesny__Atlasner/src/sample/Kwadrat.java"
+"C:/Users/Ch¹œno/IdeaProjects/Rzesny__Atlasner/src/sample/Trojkat.java"
+"C:/Users/Ch¹œno/IdeaProjects/Rzesny__Atlasner/src/module-info.java"
+"C:/Users/Ch¹œno/IdeaProjects/Rzesny__Atlasner/src/sample/Przeciwnik.java"
+"C:/Users/Ch¹œno/IdeaProjects/Rzesny__Atlasner/src/sample/Bonus.java"
+"C:/Users/Ch¹œno/IdeaProjects/Rzesny__Atlasner/src/sample/PrzeciwnikGraficzny.java"
+"C:/Users/Ch¹œno/IdeaProjects/Rzesny__Atlasner/src/sample/Prostokat.java"
+"C:/Users/Ch¹œno/IdeaProjects/Rzesny__Atlasner/src/sample/GraController.java"
+"C:/Users/Ch¹œno/IdeaProjects/Rzesny__Atlasner/src/sample/Main.java"
+"C:/Users/Ch¹œno/IdeaProjects/Rzesny__Atlasner/src/sample/MenuController.java"
+"C:/Users/Ch¹œno/IdeaProjects/Rzesny__Atlasner/src/sample/Kolko.java"
+"C:/Users/Ch¹œno/IdeaProjects/Rzesny__Atlasner/src/sample/RekordyController.java"
+"C:/Users/Ch¹œno/IdeaProjects/Rzesny__Atlasner/src/sample/Parametryzacja.java"

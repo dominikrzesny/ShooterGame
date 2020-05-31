@@ -1,0 +1,44 @@
+﻿# Plik parametryczny gry.
+# Komentarz zaczyna się od znaku # i obowiązuje do końca linii.
+# Parametry są zapisane w postaci par {nazwa}={wartość}.
+# Plik nalezy wczytać do obiektu java.util.Properties metodą load() tej klasy
+# wg wzoru w programie generatora plików parametrycznych.
+#
+nazwaGry=ShootAndGo [pin: 3466, autorzy: Dominik Rzesny Daniil Atlasner]
+# Nazwa gry powinna wyświetlac się gdzieś na planszy albo w tytule okna.
+#
+# 1. Poziomy gry i pliki opisujące poziom gry. Zawartośc pliku opisującego poziom
+#    trzeba opracować i przygotować samodzielnie wg metody stosowanej w tym pliku.
+#
+liczbaPoziomow=4
+# dodatnia liczba calkowita
+nazwaBazowaPlikuZOpisemPoziomu=poziom
+numeracjaPoziomowZaczynaSieOd=0
+# liczba 0 lub 1
+rozszerzeniePlikuZOpisemPoziomu=text
+#
+# 2. Stopnie trudnosci
+#
+liczbaStopniTrudnosci=4
+# dodatnia liczba calkowita
+zmianaStopniaTrudnosci=25
+# liczba całkowita w zakresie 20..45 - o tyle procent zwiększają się i/lub zmniejszają
+# się parametry wpływające na stopień trudności np. prędkość, czas, liczba punktów do zdobycia itp.
+#
+# 3. Różne wymiary
+#
+poczatkowaSzerokoscPlanszy=758
+poczatkowaWysokoscPlanszy=566
+poczatkowaSzerokoscObiektuGryJakoProcentPoczatkowejSzerokosciPlanszy=6.577679
+#
+# 4. Rysowanie tła i obiektów, do których się strzela
+#
+tlo=plikGraficzny
+plikTla=plik.jpeg
+# składowe R G B koloru tła, każda w zakresie 0..255
+obiektyGry=plikGraficzny
+plikObiektu=plikObiektu.jpeg
+# w ogólności tu można wstawić (względną!) ścieżkę do własnego pliku z obiektem graficznym
+#
+# Jeśli uważasz, że warto dodać jeszcze jakieś parametry dodaj je w dodatkowym
+# pliku konfiguracyjnym, obsługiwanym niezależnie od tego pliku parametrycznego.
